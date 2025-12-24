@@ -46,9 +46,10 @@ MongoDB
 
 MongoDB Compass / MongoDB Atlas
 
-#🗂 Project Structure
-#spendingtrackerappproject/
-│
+## 🗂 Project Structure
+
+```bash
+spendingtrackerappproject/
 ├── backend/
 │   ├── mybackend/
 │   │   ├── migrations/
@@ -70,10 +71,13 @@ MongoDB Compass / MongoDB Atlas
 │       │   ├── pages/
 │       │   ├── services/
 │       │   └── App.jsx
+│       │
 │       ├── package.json
-│       └── vite.config.js / webpack config
+│       └── vite.config.js
 │
 └── README.md
+```
+
 
 ⚙️ Installation & Setup
 1️⃣ Clone Project
