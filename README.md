@@ -46,8 +46,8 @@ MongoDB
 
 MongoDB Compass / MongoDB Atlas
 
-🗂 Project Structure
-spendingtrackerappproject/
+#🗂 Project Structure
+#spendingtrackerappproject/
 │
 ├── backend/
 │   ├── mybackend/
