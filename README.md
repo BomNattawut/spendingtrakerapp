@@ -79,21 +79,55 @@ spendingtrackerappproject/
 ```
 
 
-⚙️ Installation & Setup
-1️⃣ Clone Project
+## ⚙️ Installation & Setup
+
+### 1️⃣ Clone Project
+
+```bash
 git clone https://github.com/your-username/spending-tracker.git
+```
+
+```bash
 cd spendingtrackerappproject
+```
 
-2️⃣ Backend Setup (Django)
+---
+
+### 2️⃣ Backend Setup (Django)
+
+```bash
 cd backend
+```
+
+```bash
 python -m venv myenv
+```
+
+```bash
 myenv\Scripts\activate   # Windows
+```
+
+```bash
 pip install -r requirements.txt
+```
+
+```bash
 python manage.py runserver
+```
 
+---
 
+### 3️⃣ Frontend Setup (React)
 
-3️⃣ Frontend Setup (React)
+```bash
 cd myreactapp/myfronend
+```
+
+```bash
 npm install
+```
+
+```bash
 npm run dev
+```
+
